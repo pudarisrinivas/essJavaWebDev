@@ -1,7 +1,7 @@
 /**
  * 
  */
-package Srinivas_CoreJava;
+package Narsing.CoreJava;
 
 /**
  * @author SCnu
