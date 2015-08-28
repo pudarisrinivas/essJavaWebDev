@@ -1,10 +1,10 @@
-package Srinivas.CoreJava;
+package com.srinivas.corejava;
 
 /**
  * @author SCnu
  *
  */
-public class Course
+public class CourseVariablesTopic
 {
  short courseId;
  String courseName;
@@ -23,5 +23,5 @@ public class Course
     System.out.println("Course Fee"+courseFee);
     System.out.println("-----------------------");
   }
-  Course c = new Course();
+  CourseVariablesTopic c = new CourseVariablesTopic();
   }

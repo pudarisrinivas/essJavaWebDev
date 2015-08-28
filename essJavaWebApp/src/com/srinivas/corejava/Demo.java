@@ -1,7 +1,7 @@
 /**
  * 
  */
-package Srinivas.CoreJava;
+package com.srinivas.corejava;
 
 /**
  * @author SCnu
