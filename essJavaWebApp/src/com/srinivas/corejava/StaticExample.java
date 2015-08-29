@@ -33,8 +33,8 @@ public class StaticExample {
 		// TODO Auto-generated method stub
 		
 		//Java8 requires at least main method, no need to create object for static block
-		StaticExample s = new StaticExample();
-		s.change();
+		//StaticExample s = new StaticExample();
+		change();
 	}
 
 

@@ -31,7 +31,7 @@ public class ConstructorDemo {
 		ConstructorDemo c1 = new ConstructorDemo();
 		System.out.println(c1.studentId);
 		System.out.println(c1.studentName);
-		System.out.println(c1.studentCourse);
+		System.out.println(studentCourse);
 	}
 
 }
